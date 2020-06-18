@@ -50,7 +50,7 @@
     #define OPENBOOK_MIC_SHUTDOWN (-1)
     #define OPENBOOK_USB_MONITOR (-1)
 #else
-    #define OPENBOOK_BUTTON_CLOCK (53)
+    #define OPENBOOK_BUTTON_CLOCK (7)
     #define OPENBOOK_BUTTON_DATA (49)
     #define OPENBOOK_BUTTON_LATCH (43)
     #define OPENBOOK_MIC_SHUTDOWN (48)
